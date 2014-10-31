@@ -305,6 +305,391 @@ public class Lista_contenido {
 							aniadirEntrada(new Lista_entrada("73","GRUPO CULTURAL LA CASA DE TESPIS. PERÚ", 
 								R.drawable.teatro, "4 de noviembre de 2014, 7:00 PM", 
 								"Teatro Cultural", "Entrada Libre"));
+							
+							aniadirEntrada(new Lista_entrada("74","CONFERENCIA FRANK LIZ – PUERTO RICO", 
+									R.drawable.literatura, "5 de noviembre de 2014, 10:00 AM", 
+									"Salón de la Constitución, Gobernacion de Boyacá", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("75","CORTOMETRAJE - ALIENT HUNTER", 
+									R.drawable.cine, "5 de noviembre de 2014, 10:00 AM", 
+									"Teatro Suárez", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("76","TALLER LITERARIO: MARTA GÓMEZ - CANTAUTORA", 
+									R.drawable.literatura, "5 de noviembre de 2014, 10:00 AM", 
+									"Auditorio Eduardo Caballero Calderón, Sec de Cultura y Turismo de Boyacá Tunja", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("77","GRUPO DE TEATRO SOMBRAS, Obra: Androide", 
+									R.drawable.teatro, "5 de noviembre de 2014, 10:00 AM", 
+									"Teatro Cultural", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("78","TALLER: BALLET ANDINO DE ECUADOR", 
+									R.drawable.danza, "5 de noviembre de 2014, 10:00 AM", 
+									"Casa Cultural Enrique Medina Flórez. Calle 19 No. 12-54", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("79","PELÍCULA VENEZOLANA – DIARIO DE BUCARAMANGA", 
+									R.drawable.cine, "5 de noviembre de 2014, 3:00 PM", 
+									"Teatro Sogamoso", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("80","FUNDACIÓN DANZAS CARUPANO -VENEZUELA", 
+									R.drawable.danza, "5 de noviembre de 2014, 3:00 PM", 
+									"Teatro Maldonado", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("81","GRUPO DE DANZAS DARLE VIDA A LOS AÑOS - ADULTO MAYOR NOBSA", 
+									R.drawable.danza, "5 de noviembre de 2014, 3:00 PM", 
+									"Teatro Maldonado", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("82","TÍTERES: GRUPO DE TEATRO EL CARRIEL, Obra:El que nada sabe, como que no ve", 
+									R.drawable.teatro, "5 de noviembre de 2014, 3:00 PM", 
+									"Auditorio José Mosser", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("83","CONVERSATORIO, LIBROS REFERENTES DE HONDURAS SIGLO XX", 
+									R.drawable.literatura, "5 de noviembre de 2014, 3:00 PM", 
+									"Auditorio Eduardo Caballero Calderón, Sec de Cultura y Turismo de Boyacá Tunja", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("84","PRESENTACIÓN DEL LIBRO 'MÚSICA POR COLORES' DICCIONARIO DE ESCALAS", 
+									R.drawable.literatura, "5 de noviembre de 2014, 3:00 PM", 
+									"Auditorio DIAN", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("85","TARDE DE CONCIERTO LATINOAMERICANO", 
+									R.drawable.musica, "5 de noviembre de 2014, 3:00 PM", 
+									"Plaza de Bolívar", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("86","REPRESENTACIÓN ARTÍSTICA DE LA TRADICIÓN JAPONESA", 
+									R.drawable.teatro, "5 de noviembre de 2014, 6:00 PM", 
+									"Pozo Donato", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("87","PELÍCULA VENEZOLANA – BOLIVAR EL HOMBRE DE LAS DIFICULTADES", 
+									R.drawable.cine, "5 de noviembre de 2014, 7:00 PM", 
+									"Teatro Suárez", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("88","MANUEL ROJAS - Y SU TRIO INSTRUMENTAL VENEZOLANO", 
+									R.drawable.musica, "5 de noviembre de 2014, 7:00 PM", 
+									"Templo de San Ignacio", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("89","TEATRO CUENTAN LOS QUE CUENTAN: SERGIO MONARES", 
+									R.drawable.teatro, "5 de noviembre de 2014, 7:00 PM", 
+									"Auditorio Eduardo Caballero Calderón, Sec de Cultura y Turismo de Boyacá Tunja", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("90","FUNCIÓN ESTELAR DE DANZAS: GRUPO INDICHURIS – ECUADOR", 
+									R.drawable.danza, "5 de noviembre de 2014, 7:00 PM", 
+									"Teatro Maldonado", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("91","BALLET FOLCLÓRICO  DE PAIPA", 
+									R.drawable.danza, "5 de noviembre de 2014, 7:00 PM", 
+									"Teatro Maldonado", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("92","RUEDA DE PRENSA: LOS TRI-O ANUNCIAN OFICIALMENTE AL MUNDO SU REGRESO", 
+									R.drawable.musica, "6 de noviembre de 2014, 10:00 AM", 
+									"Salón de la Constitución, Gobernacion de Boyacá", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("93","TALLER DE MAQUILLAJE FX", 
+									R.drawable.cine, "6 de noviembre de 2014, 10:00 AM", 
+									"Teatro Suarez", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("94","LIZ DEL MAR: CANTA AL POETA JULIO FLÓREZ", 
+									R.drawable.literatura, "6 de noviembre de 2014, 10:00 AM", 
+									"Auditorio Eduardo Caballero Calderón, Sec de Cultura y Turismo de Boyacá Tunja", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("95","GRUPO DE TEATRO SOMBRITAS Obra: Infantil – Solo vine a hablar por teléfono", 
+									R.drawable.teatro, "6 de noviembre de 2014, 10:00 AM", 
+									"Teatro Cultural", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("96","GRUPO DE TEATRO SOMBRITAS Obra: Juvenil:  Los doce cuentos peregrinos, historias de mi abuelo", 
+									R.drawable.teatro, "6 de noviembre de 2014, 10:00 AM", 
+									"Teatro Cultural", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("97","TALLER DE DIBUJO, COLECTIVO CULTURAL UPTC", 
+									R.drawable.literatura, "6 de noviembre de 2014, 10:00 AM", 
+									"Salón Presidentes, Casa del Fundador ", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("98","TALLER: GRUPO DE DANZAS KATUETE PARAGUAY", 
+									R.drawable.danza, "6 de noviembre de 2014, 10:00 AM", 
+									"Casa Cultural Enrique Medina Flórez. Calle 19 No. 12-54", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("99","TARDE DE POESÍA LÍRICA", 
+									R.drawable.literatura, "6 de noviembre de 2014, 3:00 PM", 
+									"Auditorio Eduardo Caballero Calderón, Sec de Cultura y Turismo de Boyacá Tunja", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("100","CONVERSATORIO: Música Popular e Identidad Cultural en Brasil", 
+									R.drawable.literatura, "6 de noviembre de 2014, 3:00 PM", 
+									"Auditorio Sena", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("101","CONFERENCIA. MAGDALENA CORRADINE MORA", 
+									R.drawable.literatura, "6 de noviembre de 2014, 3:00 PM", 
+									"Auditorio DIAN", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("102","TEATRO COMEDIA Y CUENTERÍA, LUIS FERRO GARAY – El Guachimán", 
+									R.drawable.teatro, "6 de noviembre de 2014, 3:00 PM", 
+									"Auditorio José Mosser", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("103","TEATRO COMEDIA Y CUENTERÍA, JUAN SEBASTIÁN ALEJANDRO ESTUPIÑÁN ", 
+									R.drawable.teatro, "6 de noviembre de 2014, 3:00 PM", 
+									"Auditorio José Mosser", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("104","ESCUELA DE DANZAS DE FUNZA CUNDINAMARCA", 
+									R.drawable.danza, "6 de noviembre de 2014, 3:00 PM", 
+									"Plaza de Bolívar", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("105","LANZAMIENTO TRAILER ANIMADO EN BOYACÁ “ALIENT BOYACENSE”", 
+									R.drawable.cine, "6 de noviembre de 2014, 3:00 y 4:00 PM", 
+									"Teatro Suárez", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("106","GUITARRAS EN CONCIERTO: JULIAN RODRÍGUEZ BLANCO", 
+									R.drawable.musica, "6 de noviembre de 2014, 5:00 PM", 
+									"Auditorio Sena", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("107","VOCES A CAPELA", 
+									R.drawable.musica, "6 de noviembre de 2014, 7:00 PM", 
+									"Templo de San Ignacio", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("108","CUARTETO ACÚSTICO BRASILERO – BRASIL", 
+									R.drawable.musica, "6 de noviembre de 2014, 7:00 PM", 
+									"Auditorio José Mosser", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("109","ORQUESTA SINFÓNICA DE TUNJA", 
+									R.drawable.musica, "6 de noviembre de 2014, 7:00 PM", 
+									"Auditorio José Mosser", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("110","MARIA EUGENIA PENAGOS Y EL CÍRCULO NACIONAL DE ARTISTAS Obra: Noviazgo en 1920", 
+									R.drawable.teatro, "6 de noviembre de 2014, 7:00 PM", 
+									"Teatro Cultural", "$11.000 General"));
+
+								aniadirEntrada(new Lista_entrada("111","FUNCIÓN ESTELAR DE DANZAS: GRUPO KATUETE - PARAGUAY", 
+									R.drawable.danza, "6 de noviembre de 2014, 7:00 PM", 
+									"Teatro Maldonado", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("112","FUNCIÓN ESTELAR DE DANZAS: GRUPO PIES ANDINOS DE PAIPA", 
+									R.drawable.danza, "6 de noviembre de 2014, 7:00 PM", 
+									"Teatro Maldonado", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("113","TEATRO CUENTAN LOS QUE CUENTAN: CRISTIAN RUEDA CHAPARRO", 
+									R.drawable.teatro, "6 de noviembre de 2014, 7:00 PM", 
+									"Auditorio Eduardo Caballero Calderón, Sec de Cultura y Turismo de Boyacá Tunja", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("114","CINEMATOGRAFÍA ESTRELLA QUIERO SER", 
+									R.drawable.cine, "6 de noviembre de 2014, 7:00 PM", 
+									"Teatro Suárez", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("115","PANEL DE DIRECTORES: EL HACER CINE EN COLOMBIA", 
+									R.drawable.literatura, "7 de noviembre de 2014, 10:00 AM", 
+									"Auditorio Eduardo Caballero Calderón, Sec de Cultura y Turismo de Boyacá Tunja", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("116","PRESENTACIÓN Y ENTREGA DE OBRAS ACADEMIA BOYACENSE DE HISTORIA", 
+									R.drawable.literatura, "7 de noviembre de 2014, 10:00 AM", 
+									"Salón de la Constitución, Gobernacion de Boyacá", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("117","GRUPO DE TEATRO ANDRÁGORA, Obra: El jardín de la discordia", 
+									R.drawable.teatro, "7 de noviembre de 2014, 10:00 AM", 
+									"Teatro Cultural", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("118","GRUPO DE DANZAS ROSADELA DE VENEZUELA", 
+									R.drawable.danza, "7 de noviembre de 2014, 10:00 AM", 
+									"Casa Cultural Enrique Medina Flórez. Calle 19 No. 12-54", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("119","CONFERENCIA: OPORTUNIDADES DE ESTUDIOS, INVESTIGACIÓN Y BECAS EN ALEMANIA", 
+									R.drawable.literatura, "7 de noviembre de 2014, 11:00 AM", 
+									"Auditorio Sena", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("120","CINEMATOGRAFÍA TIERRA EN LA LENGUA", 
+									R.drawable.cine, "7 de noviembre de 2014, 3:00 PM", 
+									"Teatro Suárez", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("121","CONVERSATORIO: VIDA Y OBRA CON EL MAESTRO PEPE SÁNCHEZ", 
+									R.drawable.literatura, "7 de noviembre de 2014, 3:00 PM", 
+									"Auditorio Eduardo Caballero Calderón, Sec de Cultura y Turismo de Boyacá Tunja", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("122","Política Exterior de la República Federal de Alemania en el año 2014", 
+									R.drawable.literatura, "7 de noviembre de 2014, 3:00 PM", 
+									"Salón de la Constitución, Gobernacion de Boyacá", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("123","MÚSICA: TALENTO INFANTIL EN ESCENA", 
+									R.drawable.musica, "7 de noviembre de 2014, 3:00 PM", 
+									"Plaza de Bolívar", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("124","TEATRO POEMA, CANTO Y RETAHÍLA", 
+									R.drawable.teatro, "7 de noviembre de 2014, 3:00 PM", 
+									"Auditorio José Mosser", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("125","DHARMA TEATRO, Obra: Circo Ambiente", 
+									R.drawable.teatro, "7 de noviembre de 2014, 6:00 PM", 
+									"Auditorio José Mosser", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("126","FUNCIÓN ESTELAR DE DANZAS LOS HIDALGOS DE VERONA", 
+									R.drawable.danza, "7 de noviembre de 2014, 7:00 PM", 
+									"Teatro Cultural", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("127","DANZAS ROSADELA – VENEZUELA", 
+									R.drawable.danza, "7 de noviembre de 2014, 7:00 PM", 
+									"Teatro Maldonado", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("128","OTRORA INTEGRACIÓN FOLCLÓRICA COLOMBIANA", 
+									R.drawable.danza, "7 de noviembre de 2014, 7:00 PM", 
+									"Teatro Maldonado", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("129","DANZAS ADULTO MAYOR DE DUITAMA", 
+									R.drawable.danza, "7 de noviembre de 2014, 7:00 PM", 
+									"Teatro Maldonado", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("130","TEATRO CUENTAN LOS QUE CUENTAN:JAVIER ANDRÉS GONZÁLEZ MORENO", 
+									R.drawable.teatro, "7 de noviembre de 2014, 7:00 PM", 
+									"Auditorio Eduardo Caballero Calderón, Sec de Cultura y Turismo de Boyacá Tunja", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("131","GRAN CONCIERTO CON Los Tri-O", 
+									R.drawable.trio_opt, "7 de noviembre de 2014, 7:00 PM", 
+									"Coliseo Cubierto", "Por Definir"));
+
+								aniadirEntrada(new Lista_entrada("132","GRUPO DE TEATRO LA MUEKA Obra: Lúdica para el Equilibrio", 
+									R.drawable.teatro, "8 de noviembre de 2014, 10:00 AM", 
+									"Teatro Cultural", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("133","CINEMATOGRAFÍA FORO TALLER MANEJO DE CÁMARAS", 
+									R.drawable.cine, "8 de noviembre de 2014, 10:00 AM", 
+									"Teatro Cultural", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("134","GRAN ESPECTÁCULO DE LA CULTURA CIRCENSE EL SHOW LE PETIT CIRQUE", 
+									R.drawable.teatro, "8 de noviembre de 2014, 10:00 AM", 
+									"Teatro Cultural", "$11.000 General"));
+
+								aniadirEntrada(new Lista_entrada("135","GRAN ESPECTÁCULO DE LA CULTURA CIRCENSE EL SHOW LE PETIT CIRQUE", 
+									R.drawable.teatro, "8 de noviembre de 2014, 3:00 PM", 
+									"Coliseo Cubierto", "$11.000 General"));
+
+								aniadirEntrada(new Lista_entrada("136","TARDE DE ORQUESTAS Y GÉNEROS POPULARES", 
+									R.drawable.musica, "8 de noviembre de 2014, 3:00 PM", 
+									"Plaza de Bolívar", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("137","TEATRO ITINERANTE DEL SOL Obra: Voces de la Tierra", 
+									R.drawable.teatro, "8 de noviembre de 2014, 7:00 PM", 
+									"Teatro Cultural", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("138","FUNCIÓN ESTELAR DE DANZAS: FUNDACIÓN ARTÍSTICA DEL TUNDAMA", 
+									R.drawable.danza, "8 de noviembre de 2014, 7:00 PM", 
+									"Teatro Maldonado", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("139","FUNCIÓN ESTELAR DE DANZAS: FUNDACIÓN NUBALÉ DE COLOMBIA", 
+									R.drawable.danza, "8 de noviembre de 2014, 7:00 PM", 
+									"Teatro Maldonado", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("140","FUNCIÓN ESTELAR DE DANZAS: GRUPO SUADANCE", 
+									R.drawable.danza, "8 de noviembre de 2014, 7:00 PM", 
+									"Teatro Maldonado", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("141","TEATRO CUENTAN LOS QUE CUENTAN: JORGE ANDRÉS TORRES – EL DIABLO", 
+									R.drawable.teatro, "8 de noviembre de 2014, 7:00 PM", 
+									"Auditorio Eduardo Caballero Calderón, Sec de Cultura y Turismo de Boyacá Tunja", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("142","EXPOSICION: PUEBLOS – Fotografía", 
+									R.drawable.artes, "Evento Permanente", 
+									"Sala Rafael Tavera – Secretaría de Cultura y Turismo de Boyacá", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("143","EXPOSICION: MONASTERIOS E ÍCONOS DE LA RUSIA ANTIGUA – Fotografía", 
+									R.drawable.artes, "Evento Permanente", 
+									"Sala Julio Abril – Secretaría de Cultura y Turismo de Boyacá", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("144","EXPOSICION: ARTISTAS PLASTICOS Y VISUALES DE BOYACÁ FIC 2014", 
+									R.drawable.artes, "Evento Permanente", 
+									"Sala Francisco Cristancho - Secretaría de Cultura y Turismo de Boyacá", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("145","EXPOSICION: ANTES Y DESPUÉS DEL TSUNAMI – Fotografía", 
+									R.drawable.artes, "Evento Permanente", 
+									"Secretaría de Cultura y Turismo de Boyacá – Planta 1 y 2", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("146","EXPOSICION: DICTADURA Y DEMOCRACIA EN LA ERA DE LOS EXTREMOS", 
+									R.drawable.artes, "Evento Permanente", 
+									"Casa del Fundador - Primera Planta", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("147","EXPOSICION: ARTE ABSTRACTO – Pintura", 
+									R.drawable.artes, "Evento Permanente", 
+									"Casa del Fundador - Segunda Planta", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("148","EXPOSICION: CHINA HERMOSA – Fotografía", 
+									R.drawable.artes, "Evento Permanente", 
+									"Sala de Exposición - Casa Juan de Vargas", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("149","EXPOSICION: REPÚBLICA DE LA PALABRA – Fotografía e Ilustración", 
+									R.drawable.artes, "Evento Permanente", 
+									"Palacio de la Torre Gobernación de Boyacá – Segunda Planta", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("150","EXPOSICION: RETROSPECTIVA – Pintura, Dibujo y Escultura", 
+									R.drawable.artes, "Evento Permanente", 
+									": Casa Museo Gustavo Rojas Pinilla – Sala 2", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("151","EXPOSICION: NATURA PROSPERA – Proyecto Artístico - Joyería", 
+									R.drawable.artes, "Evento Permanente", 
+									"Casa Museo Gustavo Rojas Pinilla – Sala 1", "Entrada Libre"));
+
+								aniadirEntrada(new Lista_entrada("152","EXPOSICION: FOTOGRAFÍA ARTE – INDUSTRIA", 
+									R.drawable.artes, "Evento Permanente", 
+									"UNICENTRO", "Entrada Libre"));
+								
+						
+								aniadirEntrada(new Lista_entrada("154","DHARMA TEATRO OBRA: Circo Ambiente", 
+										R.drawable.teatro, "1 de noviembre, 2:00 PM, AQUITANIA", 
+										"Parque Principal - AQUITANIA", "Entrada Libre"));
+
+									aniadirEntrada(new Lista_entrada("155","PELÍCULA COSTA RICA: El Regreso", 
+										R.drawable.cine, "2 de noviembre, 7:00 PM", 
+										"Parque Rock - PAIPA", "Entrada Libre"));
+
+									aniadirEntrada(new Lista_entrada("156","PELÍCULA COSTA RICA: Gestación", 
+										R.drawable.cine, "2 de noviembre, 7:00 PM", 
+										"Parque Rock - PAIPA", "Entrada Libre"));
+
+									aniadirEntrada(new Lista_entrada("157","DHARMA TEATRO, OBRA: Circo Ambiente", 
+										R.drawable.teatro, "2 de noviembre, 11:00 AM, SAMACA", 
+										"Parque Principal - SAMACA", "Entrada Libre"));
+
+									aniadirEntrada(new Lista_entrada("158","PELÍCULA ARGENTINA – La Mala Verdad", 
+										R.drawable.cine, "3 de noviembre, 6:00 PM", 
+										"Plazoleta Tundama – Pueblito Boyacense - DUITAMA", "Entrada Libre"));
+
+									aniadirEntrada(new Lista_entrada("159","PELÍCULA ARGENTINA – Industria Argentina", 
+										R.drawable.cine, "3 de noviembre, 8:00 PM", 
+										"Parque El Carmen - DUITAMA", "Entrada Libre"));
+
+									aniadirEntrada(new Lista_entrada("160","DHARMA TEATRO OBRA: Circo Ambiente", 
+										R.drawable.teatro, "3 de noviembre, 11:00 AM, PAZ DEL RIO", 
+										"Parque Principal - PAZ DEL RIO", "Entrada Libre"));
+
+									aniadirEntrada(new Lista_entrada("161","DHARMA TEATRO OBRA: Circo Ambiente", 
+										R.drawable.teatro, "4 de noviembre, 2:00 PM, SOCHA", 
+										"Parque Principal - SOCHA", "Entrada Libre"));
+
+									aniadirEntrada(new Lista_entrada("162","PELÍCULA CUBANA – HABANASTATION", 
+										R.drawable.cine, "5 de noviembre, 6:00 PM", 
+										"Parque Jaime Rook - PAIPA", "Entrada Libre"));
+
+									aniadirEntrada(new Lista_entrada("163","PELÍCULA CUBANA – HELLO HEMINWAY", 
+										R.drawable.cine, "5 de noviembre, 8:00 PM", 
+										"Parque Jaime Rook - PAIPA", "Entrada Libre"));
+
+									aniadirEntrada(new Lista_entrada("164","DHARMA TEATRO OBRA: Circo Ambiente", 
+										R.drawable.teatro, "5 de noviembre, 2:00 PM, SAN JOSÉ DE PARE", 
+										"Parque Principal - SAN JOSÉ DE PARE", "Entrada Libre"));
+
+									aniadirEntrada(new Lista_entrada("165","CORTOMETRAJE – EL MURMULLO DE LA TIERRA", 
+										R.drawable.cine, "6 de noviembre, 7:00 PM", 
+										"Plaza 6 de Septiembre - SOGAMOSO", "Entrada Libre"));
+
+									aniadirEntrada(new Lista_entrada("166","DHARMA TEATRO OBRA: Circo Ambiente", 
+										R.drawable.teatro, "6 de noviembre, 11:00 AM, TOGUI", 
+										"Parque Principal - TOGUI", "Entrada Libre"));
+
+									aniadirEntrada(new Lista_entrada("167","DHARMA TEATRO OBRA: Circo Ambiente", 
+										R.drawable.teatro, "6 de noviembre, 11:00 AM, TUTA", 
+										"Parque Principal - TUTA", "Entrada Libre"));
+
+									aniadirEntrada(new Lista_entrada("168","CITY MONKEY. PELÍCULA CHINA", 
+										R.drawable.cine, "8 de noviembre, 11:00 AM", 
+										"Teatro Sogamoso - SOGAMOSO", "Entrada Libre"));
+
+									aniadirEntrada(new Lista_entrada("169","PELÍCULA VENEZOLANA – BOLIVAR EL HOMBRE DE LAS DIFICULTADES", 
+										R.drawable.cine, "8 de noviembre, 1:00 PM", 
+										"Teatro Sogamoso - SOGAMOSO", "Entrada Libre"));
+
+									aniadirEntrada(new Lista_entrada("170","DHARMA TEATRO OBRA: Circo Ambiente", 
+										R.drawable.teatro, "8 de noviembre, 11:00 AM, NOBSA", 
+										"Parque Principal - NOBSA", "Entrada Libre"));		
 			
 	}
 
